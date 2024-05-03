@@ -34,5 +34,5 @@ This is a simple Library Management System implemented in Python. It allows user
     python main.py
     ```
 
-2. Follow the on-screen prompts to navigate through the system and perform various operations.
+2. Follow the on-screen options to navigate through the system and perform various operations.
 
