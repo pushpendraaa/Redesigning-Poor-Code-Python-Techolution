@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple Library Management System implemented in Python. It allows users to manage books and users, perform checkouts and check-ins, and list all current checkouts.
+This is a simple Library Management System in Python. It allows users to manage books and users, perform checkouts and check-ins, and list all current checkouts.
 
 ## Features
 
